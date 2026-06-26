@@ -68,29 +68,16 @@ Data analytics project analysing Airbnb listing data to uncover host performance
 **Tech Stack:** `Python` `Pandas` `NumPy` `Matplotlib` `Seaborn`
 
 ---
+# 💫 About Me:
+pibb
 
-## 📊 GitHub Stats
-
-## Vamsi Andavarapu's GitHub Stats
-
-⭐ Total Stars Earned: **2**  
-📦 Total Commits (last year): **87**  
-🔀 Total PRs: **0**  
-🐛 Total Issues: **0**  
-🤝 Contributed to: **0**
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Vamsi Andavarapu&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Vamsi Andavarapu&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Vamsi Andavarapu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-
-### Contributions
-
-**114** Total Contributions  
-*Feb 7, 2025 – Present*
-
-🔥 **Current Streak:** **2**  
-*Jun 25 – Jun 26*
-
-🏆 **Longest Streak:** **2**  
-*Aug 2 – Aug 3, 2025*
+[![](https://komarev.com/ghpvc/?username=Vamsi Andavarapu&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 
