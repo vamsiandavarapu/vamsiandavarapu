@@ -82,17 +82,6 @@ Data analytics project analysing Airbnb listing data to uncover host performance
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VamsiAndavarapu&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
----
-
-## Most Used Languages
-
-🟡 Jupyter Notebook — **61.91%**  
-🔵 Python — **17.47%**  
-🟡 JavaScript — **9.20%**  
-🟠 Java — **8.75%**  
-🟣 CSS — **1.54%**  
-🔴 HTML — **1.13%**
-
 
 ---
 
